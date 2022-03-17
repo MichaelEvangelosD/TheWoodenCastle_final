@@ -1,0 +1,4 @@
+﻿interface IAudioActivator
+{
+    void PlayAudio();
+}
