@@ -23,3 +23,5 @@ Sprites: OpenGameArt.org , assetStore.unity.com
 Sounds: OpenGameArt.org , freesound.org
 
 Fonts: DaFont.com
+
+More info at: https://thelordy.itch.io/wooden-castle-prototype
