@@ -1,0 +1,84 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - Enemy
+  - Chest
+  - Environment
+  - DoorLocked
+  - HealthManager
+  - ChestManager
+  - Lever_unused
+  - LoadingPanel
+  - LevelEventSystem
+  - EXP_Slider
+  - UI_MainCanvas
+  - UI_Heart
+  - Destructable
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Player
+  - Enemies
+  - Chest
+  - Environment
+  - Destructable
+  - EvasionLayer
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - PostProcess
+  - 'Untargetable '
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 2257283307
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Enemy
+    uniqueID: 4155444911
+    locked: 0
+  - name: Drops
+    uniqueID: 569694383
+    locked: 0
+  - name: Lever
+    uniqueID: 3649322435
+    locked: 0
+  - name: FloatingScore
+    uniqueID: 844789547
+    locked: 0
+  - name: Destructable Pots
+    uniqueID: 2290717319
+    locked: 0
+  - name: Player
+    uniqueID: 1374061525
+    locked: 0
+  - name: FadedLayer
+    uniqueID: 2583034095
+    locked: 0
+  - name: PermaFront
+    uniqueID: 3047821307
+    locked: 0
